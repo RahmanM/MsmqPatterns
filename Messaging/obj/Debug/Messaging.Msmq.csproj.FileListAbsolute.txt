@@ -1,0 +1,6 @@
+D:\rahman\Messaging\Messaging\bin\Debug\Messaging.Msmq.dll
+D:\rahman\Messaging\Messaging\bin\Debug\Messaging.Msmq.pdb
+D:\rahman\Messaging\Messaging\obj\Debug\Messaging.Msmq.dll
+D:\rahman\Messaging\Messaging\obj\Debug\Messaging.Msmq.pdb
+D:\rahman\Messaging\Messaging\obj\Debug\Messaging.Msmq.Resource.resources
+D:\rahman\Messaging\Messaging\obj\Debug\Messaging.Msmq.csproj.GenerateResource.Cache

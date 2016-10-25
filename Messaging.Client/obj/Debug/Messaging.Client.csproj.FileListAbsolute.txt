@@ -1,0 +1,8 @@
+D:\rahman\Messaging\Messaging.Client\bin\Debug\Messaging.Client.exe.config
+D:\rahman\Messaging\Messaging.Client\bin\Debug\Messaging.Client.exe
+D:\rahman\Messaging\Messaging.Client\bin\Debug\Messaging.Client.pdb
+D:\rahman\Messaging\Messaging.Client\bin\Debug\Messaging.Msmq.dll
+D:\rahman\Messaging\Messaging.Client\bin\Debug\Messaging.Msmq.pdb
+D:\rahman\Messaging\Messaging.Client\obj\Debug\Messaging.Client.csprojResolveAssemblyReference.cache
+D:\rahman\Messaging\Messaging.Client\obj\Debug\Messaging.Client.exe
+D:\rahman\Messaging\Messaging.Client\obj\Debug\Messaging.Client.pdb
